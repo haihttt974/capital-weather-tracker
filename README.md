@@ -130,7 +130,7 @@ Curated and maintained by **[@lduyhi]**, with automated jobs running on [PythonA
 	        <br>
 	        <a href="https://github.com/haihttt974">Duy Hải</a>
 	        <p>
-	          <a href="https://github.com/haihttt974/capital-weather-tracker/commits/master/?author=haihttt974" title="Developer">💻</a>
+	          <a href="https://github.com/haihttt974/capital-weather-tracker/commits/main/?author=haihttt974" title="Developer">💻</a>
 	        </p>
 			</td>
 			<td align="center" valign="top">
@@ -138,7 +138,7 @@ Curated and maintained by **[@lduyhi]**, with automated jobs running on [PythonA
 	        <br>
 	        <a href="https://github.com/ngoctrinh564">Ngọc Trinh</a>
 	        <p>
-	          <a href="https://github.com/haihttt974/capital-weather-tracker/commits/master/?author=ngoctrinh564" title="Developer">💻</a>
+	          <a href="https://github.com/haihttt974/capital-weather-tracker/commits/main/?author=ngoctrinh564" title="Developer">💻</a>
 	        </p>
 			</td>
 		</tr>
