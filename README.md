@@ -5,15 +5,16 @@ A curated collection of near real-time weather observations for world capitals, 
 ---
 
 ## 📚 Table of Contents
-1. [Project Overview](#-project-overview)
-2. [Dataset Highlights](#-dataset-highlights)
-3. [Repository Structure](#-repository-structure)
-4. [Getting Started](#-getting-started)
-5. [Using the Dataset](#-using-the-dataset)
-6. [Automation & Update Pipeline](#-automation--update-pipeline)
-7. [Contributing](#-contributing)
-8. [License](#-license)
-9. [Maintainer](#-maintainer)
+1.  [Project Overview](#-project-overview)
+2.  [Dataset Highlights](#-dataset-highlights)
+3.  [Repository Structure](#-repository-structure)
+4.  [Getting Started](#-getting-started)
+5.  [Using the Dataset](#-using-the-dataset)
+6.  [Automation & Update Pipeline](#-automation--update-pipeline)
+7.  [Contributing](#-contributing)
+8.  [License](#-license)
+9.  [Maintainer](#-maintainer)
+10. [The Dev Team](#-the-dev-team)
 
 ---
 
@@ -129,7 +130,7 @@ Curated and maintained by **[@lduyhi]**, with automated jobs running on [PythonA
 	        <br>
 	        <a href="https://github.com/haihttt974">Duy Hải</a>
 	        <p>
-	          <a href="https://github.com/haihttt974/courseproject-ltweb-gym/commits/master/?author=haihttt974" title="Developer">💻</a>
+	          <a href="https://github.com/haihttt974/capital-weather-tracker/commits/master/?author=haihttt974" title="Developer">💻</a>
 	        </p>
 			</td>
 			<td align="center" valign="top">
@@ -137,7 +138,7 @@ Curated and maintained by **[@lduyhi]**, with automated jobs running on [PythonA
 	        <br>
 	        <a href="https://github.com/ngoctrinh564">Ngọc Trinh</a>
 	        <p>
-	          <a href="https://github.com/haihttt974/courseproject-ltweb-gym/commits/master/?author=ngoctrinh564" title="Developer">💻</a>
+	          <a href="https://github.com/haihttt974/capital-weather-tracker/commits/master/?author=ngoctrinh564" title="Developer">💻</a>
 	        </p>
 			</td>
 		</tr>
