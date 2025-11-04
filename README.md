@@ -119,7 +119,7 @@ This project is distributed under the **CC BY 4.0** license. Feel free to use th
 ---
 
 ## 👤 Maintainer
-Curated and maintained by **[@lduyhi]**, with automated jobs running on [PythonAnywhere](https://www.pythonanywhere.com/).
+Curated and maintained by **[@lduyhi]** & **[@nguynngctrinh]**, with automated jobs running on [PythonAnywhere](https://www.pythonanywhere.com/).
 
 ## 👥 The Dev Team
 <div align="center">
