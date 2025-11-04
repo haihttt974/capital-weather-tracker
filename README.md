@@ -118,4 +118,4 @@ This project is distributed under the **CC BY 4.0** license. Feel free to use th
 ---
 
 ## 👤 Maintainer
-Curated and maintained by **[your Kaggle username]**, with automated jobs running on [PythonAnywhere](https://www.pythonanywhere.com/).
+Curated and maintained by **[@lduyhi]**, with automated jobs running on [PythonAnywhere](https://www.pythonanywhere.com/).
