@@ -1,0 +1,242 @@
+utc_time,local_time,country,capital,continent,temperature,temp_min,temp_max,humidity,feels_like,visibility,precipitation,cloudcover,wind_speed,wind_gust,wind_direction,pressure,is_day,weather_code,weather_main,weather_description,weather_icon
+2025-09-01 00:00:16,2025-08-31 20:00:16,United States,Washington,North America,21.38,19.0,22.39,56.0,21.04,10000.0,0.0,0.0,0.45,0.45,64.0,1022.0,0,800,Clear,clear sky,01n
+2025-09-01 06:00:21,2025-09-01 02:00:21,United States,Washington,North America,15.03,12.97,16.56,82.0,14.73,10000.0,0.0,0.0,1.54,0.0,330.0,1022.0,0,800,Clear,clear sky,01n
+2025-09-01 12:00:21,2025-09-01 08:00:21,United States,Washington,North America,15.45,13.36,16.38,82.0,15.19,10000.0,0.0,20.0,1.54,0.0,350.0,1023.0,1,801,Clouds,few clouds,02d
+2025-09-01 18:00:19,2025-09-01 14:00:19,United States,Washington,North America,25.58,24.44,26.93,48.0,25.45,10000.0,0.0,75.0,6.69,9.77,50.0,1022.0,1,803,Clouds,broken clouds,04d
+2025-09-02 00:00:15,2025-09-01 20:00:15,United States,Washington,North America,22.85,20.64,23.86,56.0,22.65,10000.0,0.0,40.0,4.63,0.0,120.0,1022.0,0,802,Clouds,scattered clouds,03n
+2025-09-02 06:00:21,2025-09-02 02:00:21,United States,Washington,North America,16.13,14.38,17.7,86.0,16.04,6437.0,0.0,0.0,0.0,0.0,0.0,1022.0,0,701,Mist,mist,50n
+2025-09-02 12:00:18,2025-09-02 08:00:18,United States,Washington,North America,14.91,13.27,16.07,84.0,14.65,10000.0,0.0,20.0,2.57,0.0,10.0,1021.0,1,801,Clouds,few clouds,02d
+2025-09-02 18:00:16,2025-09-02 14:00:16,United States,Washington,North America,24.1,22.85,25.56,53.0,23.95,10000.0,0.0,75.0,3.6,0.0,30.0,1019.0,1,803,Clouds,broken clouds,04d
+2025-09-03 00:00:24,2025-09-02 20:00:24,United States,Washington,North America,21.58,19.37,22.95,62.0,21.41,10000.0,0.0,0.0,2.06,0.0,120.0,1017.0,0,800,Clear,clear sky,01n
+2025-09-03 06:00:21,2025-09-03 02:00:21,United States,Washington,North America,14.96,13.27,16.66,87.0,14.78,10000.0,0.0,0.0,0.0,0.0,0.0,1016.0,0,800,Clear,clear sky,01n
+2025-09-03 12:00:20,2025-09-03 08:00:20,United States,Washington,North America,15.69,13.36,16.56,86.0,15.56,10000.0,0.0,20.0,0.0,0.0,0.0,1016.0,1,801,Clouds,few clouds,02d
+2025-09-03 18:00:16,2025-09-03 14:00:16,United States,Washington,North America,26.94,25.46,28.21,47.0,27.19,10000.0,0.0,40.0,4.12,0.0,170.0,1013.0,1,802,Clouds,scattered clouds,03d
+2025-09-04 00:00:22,2025-09-03 20:00:22,United States,Washington,North America,23.6,21.82,24.6,61.0,23.61,10000.0,0.0,0.0,2.24,2.68,93.0,1011.0,0,800,Clear,clear sky,01n
+2025-09-04 06:00:18,2025-09-04 02:00:18,United States,Washington,North America,19.32,17.55,20.17,79.0,19.37,10000.0,0.0,0.0,4.12,0.0,180.0,1012.0,0,800,Clear,clear sky,01n
+2025-09-04 12:00:19,2025-09-04 08:00:19,United States,Washington,North America,18.25,16.51,19.39,84.0,18.32,10000.0,0.0,20.0,4.63,0.0,190.0,1011.0,1,801,Clouds,few clouds,02d
+2025-09-04 18:00:18,2025-09-04 14:00:18,United States,Washington,North America,29.48,28.26,30.48,54.0,30.89,10000.0,0.0,20.0,8.75,10.8,190.0,1009.0,1,801,Clouds,few clouds,02d
+2025-09-05 00:00:24,2025-09-04 20:00:24,United States,Washington,North America,23.09,21.57,23.9,80.0,23.54,10000.0,0.75,75.0,2.57,0.0,180.0,1009.0,0,500,Rain,light rain,10n
+2025-09-05 06:00:19,2025-09-05 02:00:19,United States,Washington,North America,19.31,17.77,20.17,85.0,19.52,10000.0,0.0,0.0,2.06,0.0,210.0,1011.0,0,800,Clear,clear sky,01n
+2025-09-05 12:00:17,2025-09-05 08:00:17,United States,Washington,North America,18.92,17.33,19.96,87.0,19.14,10000.0,0.0,40.0,2.57,0.0,200.0,1014.0,1,802,Clouds,scattered clouds,03d
+2025-09-05 18:00:25,2025-09-05 14:00:25,United States,Washington,North America,30.43,28.9,31.82,56.0,32.83,10000.0,0.0,0.0,3.6,0.0,190.0,1012.0,1,800,Clear,clear sky,01d
+2025-09-06 00:00:21,2025-09-05 20:00:21,United States,Washington,North America,28.5,26.05,29.39,63.0,30.62,10000.0,0.0,75.0,4.12,0.0,180.0,1012.0,0,803,Clouds,broken clouds,04n
+2025-09-06 06:00:19,2025-09-06 02:00:19,United States,Washington,North America,24.22,21.78,25.17,81.0,24.81,10000.0,0.0,20.0,3.6,0.0,180.0,1014.0,0,801,Clouds,few clouds,02n
+2025-09-06 12:00:17,2025-09-06 08:00:17,United States,Washington,North America,22.65,21.26,23.5,85.0,23.19,10000.0,0.0,100.0,5.14,0.0,190.0,1014.0,1,804,Clouds,overcast clouds,04d
+2025-09-06 18:00:25,2025-09-06 14:00:25,United States,Washington,North America,32.51,30.96,33.81,55.0,36.72,10000.0,0.0,0.0,5.14,0.0,240.0,1013.0,1,800,Clear,clear sky,01d
+2025-09-07 00:00:22,2025-09-06 20:00:22,United States,Washington,North America,22.25,21.12,23.45,88.0,22.83,10000.0,0.32,100.0,2.06,0.0,120.0,1015.0,0,500,Rain,light rain,10n
+2025-09-07 06:00:20,2025-09-07 02:00:20,United States,Washington,North America,17.55,16.58,18.37,87.0,17.63,4023.0,8.65,100.0,5.14,0.0,340.0,1017.0,0,502,Rain,heavy intensity rain,10n
+2025-09-07 12:00:20,2025-09-07 08:00:20,United States,Washington,North America,16.29,15.41,17.37,89.0,16.3,10000.0,1.78,100.0,2.06,0.0,320.0,1018.0,1,501,Rain,moderate rain,10d
+2025-09-07 18:00:20,2025-09-07 14:00:20,United States,Washington,North America,23.55,21.88,24.89,55.0,23.4,10000.0,0.0,40.0,2.57,0.0,280.0,1018.0,1,802,Clouds,scattered clouds,03d
+2025-09-08 00:00:16,2025-09-07 20:00:16,United States,Washington,North America,20.06,17.68,21.61,56.0,19.58,10000.0,0.0,0.0,2.06,0.0,330.0,1019.0,0,800,Clear,clear sky,01n
+2025-09-08 06:00:21,2025-09-08 02:00:21,United States,Washington,North America,13.17,11.44,14.99,81.0,12.66,10000.0,0.0,0.0,2.06,0.0,350.0,1023.0,0,800,Clear,clear sky,01n
+2025-09-08 12:00:18,2025-09-08 08:00:18,United States,Washington,North America,13.08,11.37,15.36,78.0,12.48,10000.0,0.0,0.0,3.6,0.0,360.0,1025.0,1,800,Clear,clear sky,01d
+2025-09-08 18:00:15,2025-09-08 14:00:15,United States,Washington,North America,23.56,21.9,25.0,40.0,23.02,10000.0,0.0,20.0,5.14,0.0,90.0,1025.0,1,801,Clouds,few clouds,02d
+2025-09-09 00:00:21,2025-09-08 20:00:21,United States,Washington,North America,19.42,16.91,20.73,54.0,18.83,10000.0,0.0,0.0,2.57,0.0,100.0,1024.0,0,800,Clear,clear sky,01n
+2025-09-09 06:00:18,2025-09-09 02:00:18,United States,Washington,North America,13.25,11.23,14.44,84.0,12.82,10000.0,0.0,0.0,0.0,0.0,0.0,1025.0,0,800,Clear,clear sky,01n
+2025-09-09 12:00:21,2025-09-09 08:00:21,United States,Washington,North America,13.48,11.23,14.96,83.0,13.05,10000.0,0.0,0.0,3.09,0.0,30.0,1025.0,1,800,Clear,clear sky,01d
+2025-09-09 18:00:23,2025-09-09 14:00:23,United States,Washington,North America,23.88,22.45,25.11,48.0,23.58,10000.0,0.0,40.0,5.66,0.0,60.0,1024.0,1,802,Clouds,scattered clouds,03d
+2025-09-10 00:00:22,2025-09-09 20:00:22,United States,Washington,North America,20.62,18.73,21.9,64.0,20.41,10000.0,0.0,40.0,3.09,0.0,70.0,1022.0,0,802,Clouds,scattered clouds,03n
+2025-09-10 06:00:22,2025-09-10 02:00:22,United States,Washington,North America,18.5,16.14,19.38,77.0,18.42,10000.0,0.0,100.0,4.12,0.0,50.0,1022.0,0,804,Clouds,overcast clouds,04n
+2025-09-10 12:00:31,2025-09-10 08:00:31,United States,Washington,North America,16.13,15.03,17.2,86.0,16.04,10000.0,0.0,100.0,6.17,0.0,350.0,1022.0,1,300,Drizzle,light intensity drizzle,09d
+2025-09-10 18:00:17,2025-09-10 14:00:17,United States,Washington,North America,18.25,17.22,19.56,88.0,18.43,3219.0,0.68,100.0,4.63,0.0,340.0,1021.0,1,300,Drizzle,light intensity drizzle,09d
+2025-09-11 00:00:23,2025-09-10 20:00:23,United States,Washington,North America,20.06,18.84,21.23,84.0,20.31,10000.0,0.0,100.0,3.09,0.0,50.0,1020.0,0,804,Clouds,overcast clouds,04n
+2025-09-11 06:00:20,2025-09-11 02:00:20,United States,Washington,North America,18.76,17.89,19.53,92.0,19.09,10000.0,0.0,100.0,2.06,0.0,40.0,1020.0,0,300,Drizzle,light intensity drizzle,09n
+2025-09-11 12:00:19,2025-09-11 08:00:19,United States,Washington,North America,18.42,17.31,19.37,92.0,18.72,10000.0,0.0,75.0,2.57,0.0,30.0,1020.0,1,803,Clouds,broken clouds,04d
+2025-09-11 18:00:15,2025-09-11 14:00:15,United States,Washington,North America,26.26,24.84,27.67,64.0,26.26,10000.0,0.0,40.0,2.06,0.0,170.0,1020.0,1,802,Clouds,scattered clouds,03d
+2025-09-12 00:00:21,2025-09-11 20:00:21,United States,Washington,North America,22.29,20.15,23.66,77.0,22.59,10000.0,0.0,40.0,2.57,0.0,130.0,1019.0,0,802,Clouds,scattered clouds,03n
+2025-09-12 06:00:17,2025-09-12 02:00:17,United States,Washington,North America,16.97,15.21,18.27,86.0,16.97,10000.0,0.0,39.0,1.64,2.05,287.0,1021.0,0,802,Clouds,scattered clouds,03n
+2025-09-12 12:00:24,2025-09-12 08:00:24,United States,Washington,North America,16.69,14.9,18.22,85.0,16.63,10000.0,0.0,20.0,3.09,0.0,340.0,1022.0,1,801,Clouds,few clouds,02d
+2025-09-12 18:00:18,2025-09-12 14:00:18,United States,Washington,North America,27.29,25.67,28.33,44.0,27.31,10000.0,0.0,20.0,3.6,0.0,90.0,1021.0,1,801,Clouds,few clouds,02d
+2025-09-13 00:00:24,2025-09-12 20:00:24,United States,Washington,North America,22.29,20.24,24.04,63.0,22.22,10000.0,0.0,0.0,2.06,0.0,130.0,1021.0,0,800,Clear,clear sky,01n
+2025-09-13 06:00:19,2025-09-13 02:00:19,United States,Washington,North America,16.44,14.68,17.8,86.0,16.39,10000.0,0.0,0.0,1.54,0.0,200.0,1021.0,0,800,Clear,clear sky,01n
+2025-09-13 12:00:15,2025-09-13 08:00:15,United States,Washington,North America,15.8,13.97,16.85,89.0,15.76,10000.0,0.0,20.0,1.54,0.0,220.0,1022.0,1,801,Clouds,few clouds,02d
+2025-09-13 18:00:21,2025-09-13 14:00:21,United States,Washington,North America,28.35,26.69,29.69,45.0,28.38,10000.0,0.0,20.0,5.14,0.0,170.0,1019.0,1,801,Clouds,few clouds,02d
+2025-09-14 00:00:18,2025-09-13 20:00:18,United States,Washington,North America,23.99,21.88,24.99,60.0,24.01,10000.0,0.0,0.0,4.12,0.0,150.0,1017.0,0,800,Clear,clear sky,01n
+2025-09-14 06:00:24,2025-09-14 02:00:24,United States,Washington,North America,19.87,17.68,21.11,81.0,20.03,10000.0,0.0,0.0,2.57,0.0,220.0,1017.0,0,800,Clear,clear sky,01n
+2025-09-14 12:00:21,2025-09-14 08:00:21,United States,Washington,North America,17.35,15.67,18.85,88.0,17.44,10000.0,0.0,0.0,0.0,0.0,0.0,1017.0,1,800,Clear,clear sky,01d
+2025-09-14 18:00:15,2025-09-14 14:00:15,United States,Washington,North America,29.78,27.8,31.05,48.0,30.44,10000.0,0.0,0.0,1.54,0.0,10.0,1016.0,1,800,Clear,clear sky,01d
+2025-09-15 00:00:20,2025-09-14 20:00:20,United States,Washington,North America,24.82,22.48,26.22,66.0,25.08,10000.0,0.0,100.0,3.09,0.0,80.0,1016.0,0,804,Clouds,overcast clouds,04n
+2025-09-15 06:00:16,2025-09-15 02:00:16,United States,Washington,North America,19.09,17.43,20.5,86.0,19.3,10000.0,0.0,0.0,0.0,0.0,0.0,1019.0,0,800,Clear,clear sky,01n
+2025-09-15 12:00:26,2025-09-15 08:00:26,United States,Washington,North America,17.89,16.37,19.27,86.0,17.98,10000.0,0.0,20.0,3.6,0.0,30.0,1022.0,1,801,Clouds,few clouds,02d
+2025-09-15 18:00:28,2025-09-15 14:00:28,United States,Washington,North America,27.31,26.07,28.66,54.0,28.01,10000.0,0.0,40.0,4.63,0.0,90.0,1022.0,1,802,Clouds,scattered clouds,03d
+2025-09-16 00:00:20,2025-09-15 20:00:20,United States,Washington,North America,22.3,20.4,23.6,72.0,22.47,10000.0,0.0,75.0,2.06,0.0,40.0,1021.0,0,803,Clouds,broken clouds,04n
+2025-09-16 06:00:16,2025-09-16 02:00:16,United States,Washington,North America,19.23,17.53,20.27,76.0,19.19,10000.0,0.0,0.0,3.09,0.0,30.0,1022.0,0,800,Clear,clear sky,01n
+2025-09-16 12:00:23,2025-09-16 08:00:23,United States,Washington,North America,18.04,16.7,19.06,81.0,18.01,10000.0,0.21,40.0,4.63,0.0,20.0,1022.0,1,500,Rain,light rain,10d
+2025-09-16 18:00:01,2025-09-16 14:00:01,United States,Washington,North America,20.28,19.16,21.84,72.0,20.24,10000.0,0.61,100.0,8.23,0.0,40.0,1021.0,1,500,Rain,light rain,10d
+2025-09-17 00:00:15,2025-09-16 20:00:15,United States,Washington,North America,15.51,14.44,16.64,86.0,15.36,10000.0,4.23,100.0,4.63,0.0,360.0,1019.0,0,502,Rain,heavy intensity rain,10n
+2025-09-17 06:00:20,2025-09-17 02:00:20,United States,Washington,North America,15.9,14.53,16.97,85.0,15.77,10000.0,0.0,100.0,7.72,0.0,10.0,1017.0,0,804,Clouds,overcast clouds,04n
+2025-09-17 12:00:19,2025-09-17 08:00:19,United States,Washington,North America,16.51,15.41,17.17,87.0,16.49,10000.0,0.0,100.0,9.26,0.0,30.0,1016.0,1,300,Drizzle,light intensity drizzle,09d
+2025-09-17 18:00:17,2025-09-17 14:00:17,United States,Washington,North America,19.2,17.89,20.17,90.0,19.53,10000.0,0.0,100.0,5.66,0.0,20.0,1016.0,1,701,Mist,mist,50d
+2025-09-18 00:00:23,2025-09-17 20:00:23,United States,Washington,North America,18.96,18.19,19.92,88.0,19.21,10000.0,0.0,100.0,5.66,0.0,40.0,1016.0,0,300,Drizzle,light intensity drizzle,09n
+2025-09-18 06:00:20,2025-09-18 02:00:20,United States,Washington,North America,18.49,17.55,19.37,91.0,18.77,10000.0,0.0,100.0,3.6,0.0,350.0,1016.0,0,804,Clouds,overcast clouds,04n
+2025-09-18 12:00:18,2025-09-18 08:00:18,United States,Washington,North America,18.32,17.14,18.9,93.0,18.64,10000.0,0.0,100.0,3.09,0.0,350.0,1017.0,1,701,Mist,mist,50d
+2025-09-18 18:00:23,2025-09-18 14:00:23,United States,Washington,North America,26.74,25.32,28.49,67.0,28.22,10000.0,0.0,40.0,3.6,0.0,250.0,1015.0,1,802,Clouds,scattered clouds,03d
+2025-09-19 00:00:19,2025-09-18 20:00:19,United States,Washington,North America,23.53,21.35,25.15,75.0,23.9,10000.0,0.0,20.0,4.12,0.0,180.0,1014.0,0,801,Clouds,few clouds,02n
+2025-09-19 06:00:16,2025-09-19 02:00:16,United States,Washington,North America,19.78,17.72,21.06,86.0,20.06,10000.0,0.0,0.0,3.09,0.0,200.0,1015.0,0,701,Mist,mist,50n
+2025-09-19 12:00:21,2025-09-19 08:00:21,United States,Washington,North America,17.44,15.97,18.85,89.0,17.56,10000.0,0.0,0.0,1.54,0.0,230.0,1016.0,1,701,Mist,mist,50d
+2025-09-19 18:00:15,2025-09-19 14:00:15,United States,Washington,North America,30.47,28.91,32.15,48.0,31.42,10000.0,0.0,20.0,3.6,0.0,20.0,1016.0,1,801,Clouds,few clouds,02d
+2025-09-20 00:00:21,2025-09-19 20:00:21,United States,Washington,North America,25.04,22.89,26.64,68.0,25.38,10000.0,0.0,0.0,2.06,0.0,130.0,1016.0,0,800,Clear,clear sky,01n
+2025-09-20 06:00:16,2025-09-20 02:00:16,United States,Washington,North America,21.54,19.59,22.77,85.0,21.97,10000.0,0.0,100.0,2.57,0.0,10.0,1018.0,0,804,Clouds,overcast clouds,04n
+2025-09-20 12:00:22,2025-09-20 08:00:22,United States,Washington,North America,19.25,17.45,20.45,72.0,19.11,10000.0,0.0,40.0,4.63,0.0,40.0,1021.0,1,802,Clouds,scattered clouds,03d
+2025-09-20 18:00:18,2025-09-20 14:00:18,United States,Washington,North America,24.27,22.85,25.9,67.0,24.5,10000.0,0.0,100.0,5.14,0.0,40.0,1022.0,1,804,Clouds,overcast clouds,04d
+2025-09-21 00:00:26,2025-09-20 20:00:26,United States,Washington,North America,21.25,19.95,22.25,83.0,21.6,10000.0,0.0,40.0,1.79,1.79,79.0,1022.0,0,802,Clouds,scattered clouds,03n
+2025-09-21 06:00:21,2025-09-21 02:00:21,United States,Washington,North America,19.45,18.33,20.45,86.0,19.7,10000.0,0.0,100.0,3.09,0.0,70.0,1023.0,0,804,Clouds,overcast clouds,04n
+2025-09-21 12:00:21,2025-09-21 08:00:21,United States,Washington,North America,19.04,18.01,19.94,87.0,19.27,10000.0,0.0,100.0,3.09,0.0,70.0,1024.0,1,804,Clouds,overcast clouds,04d
+2025-09-21 18:00:16,2025-09-21 14:00:16,United States,Washington,North America,22.49,21.34,23.46,76.0,22.78,10000.0,0.0,100.0,3.6,0.0,100.0,1023.0,1,804,Clouds,overcast clouds,04d
+2025-09-22 00:00:20,2025-09-21 20:00:20,United States,Washington,North America,20.99,19.85,21.9,81.0,21.26,10000.0,0.0,100.0,3.09,0.0,120.0,1021.0,0,804,Clouds,overcast clouds,04n
+2025-09-22 06:00:18,2025-09-22 02:00:18,United States,Washington,North America,18.0,16.32,19.0,83.0,18.02,10000.0,0.0,100.0,0.89,0.89,131.0,1021.0,0,804,Clouds,overcast clouds,04n
+2025-09-22 12:00:24,2025-09-22 08:00:24,United States,Washington,North America,16.3,14.44,17.93,86.0,16.23,10000.0,0.0,75.0,0.0,0.0,0.0,1021.0,1,803,Clouds,broken clouds,04d
+2025-09-22 18:00:27,2025-09-22 14:00:27,United States,Washington,North America,24.99,23.85,26.11,64.0,25.22,10000.0,0.0,40.0,4.63,0.0,190.0,1018.0,1,802,Clouds,scattered clouds,03d
+2025-09-23 00:00:24,2025-09-22 20:00:24,United States,Washington,North America,22.9,20.96,23.85,77.0,23.26,10000.0,0.0,40.0,3.6,0.0,180.0,1016.0,0,802,Clouds,scattered clouds,03n
+2025-09-23 06:00:20,2025-09-23 02:00:20,United States,Washington,North America,19.22,17.62,20.02,84.0,19.39,10000.0,0.0,0.0,3.09,0.0,190.0,1017.0,0,800,Clear,clear sky,01n
+2025-09-23 12:00:19,2025-09-23 08:00:19,United States,Washington,North America,18.22,16.78,19.38,85.0,18.32,10000.0,0.0,40.0,4.63,0.0,190.0,1017.0,1,802,Clouds,scattered clouds,03d
+2025-09-23 18:00:20,2025-09-23 14:00:20,United States,Washington,North America,28.2,26.78,29.37,62.0,29.99,10000.0,0.0,75.0,5.14,0.0,210.0,1015.0,1,803,Clouds,broken clouds,04d
+2025-09-24 00:00:15,2025-09-23 20:00:15,United States,Washington,North America,23.97,22.46,25.37,87.0,24.69,10000.0,0.0,75.0,2.57,0.0,180.0,1015.0,0,701,Mist,mist,50n
+2025-09-24 06:00:20,2025-09-24 02:00:20,United States,Washington,North America,20.88,19.68,21.84,91.0,21.4,805.0,0.0,75.0,0.45,0.45,212.0,1015.0,0,741,Fog,fog,50n
+2025-09-24 12:00:17,2025-09-24 08:00:17,United States,Washington,North America,19.52,18.19,20.55,93.0,19.96,8047.0,0.0,0.0,0.0,0.0,0.0,1016.0,1,701,Mist,mist,50d
+2025-09-24 18:00:29,2025-09-24 14:00:29,United States,Washington,North America,25.26,24.1,26.07,80.0,25.93,10000.0,0.0,100.0,2.57,0.0,110.0,1016.0,1,804,Clouds,overcast clouds,04d
+2025-09-25 00:00:16,2025-09-24 20:00:16,United States,Washington,North America,23.39,22.33,24.06,85.0,24.0,10000.0,0.0,100.0,1.54,0.0,90.0,1015.0,0,804,Clouds,overcast clouds,04n
+2025-09-25 06:00:21,2025-09-25 02:00:21,United States,Washington,North America,22.5,21.26,23.28,95.0,23.29,10000.0,0.0,100.0,2.57,0.0,170.0,1014.0,0,701,Mist,mist,50n
+2025-09-25 12:00:18,2025-09-25 08:00:18,United States,Washington,North America,22.05,21.22,22.77,93.0,22.74,3219.0,0.36,100.0,4.12,0.0,170.0,1013.0,1,701,Mist,mist,50d
+2025-09-25 18:00:16,2025-09-25 14:00:16,United States,Washington,North America,24.84,23.45,26.22,85.0,25.6,10000.0,0.0,100.0,6.17,0.0,200.0,1010.0,1,804,Clouds,overcast clouds,04d
+2025-09-26 00:00:21,2025-09-25 20:00:21,United States,Washington,North America,24.65,23.26,25.51,82.0,25.31,10000.0,0.0,75.0,5.66,0.0,220.0,1009.0,0,803,Clouds,broken clouds,04n
+2025-09-26 06:00:17,2025-09-26 02:00:17,United States,Washington,North America,21.17,19.84,22.37,87.0,21.61,10000.0,0.0,75.0,2.57,0.0,350.0,1009.0,0,803,Clouds,broken clouds,04n
+2025-09-26 12:00:22,2025-09-26 08:00:22,United States,Washington,North America,19.7,18.26,21.07,87.0,20.0,10000.0,0.0,0.0,2.57,0.0,350.0,1011.0,1,800,Clear,clear sky,01d
+2025-09-26 18:00:18,2025-09-26 14:00:18,United States,Washington,North America,27.44,26.04,29.16,61.0,28.75,10000.0,0.0,75.0,3.6,0.0,10.0,1011.0,1,803,Clouds,broken clouds,04d
+2025-09-27 00:00:24,2025-09-26 20:00:24,United States,Washington,North America,23.16,21.57,24.92,77.0,23.54,10000.0,0.0,75.0,1.54,0.0,140.0,1011.0,0,803,Clouds,broken clouds,04n
+2025-09-27 06:00:20,2025-09-27 02:00:20,United States,Washington,North America,19.82,18.44,21.37,85.0,20.08,10000.0,0.0,0.0,0.0,0.0,0.0,1013.0,0,800,Clear,clear sky,01n
+2025-09-27 12:00:18,2025-09-27 08:00:18,United States,Washington,North America,19.72,18.44,20.83,87.0,20.02,10000.0,0.0,40.0,0.0,0.0,0.0,1014.0,1,802,Clouds,scattered clouds,03d
+2025-09-27 18:00:23,2025-09-27 14:00:23,United States,Washington,North America,24.33,23.56,25.37,72.0,24.7,10000.0,0.0,100.0,2.57,0.0,80.0,1013.0,1,804,Clouds,overcast clouds,04d
+2025-09-28 00:00:19,2025-09-27 20:00:19,United States,Washington,North America,21.09,20.13,21.92,87.0,21.53,6437.0,1.33,100.0,2.57,0.0,70.0,1014.0,0,501,Rain,moderate rain,10n
+2025-09-28 06:00:16,2025-09-28 02:00:16,United States,Washington,North America,19.03,18.01,19.92,88.0,19.29,10000.0,0.0,100.0,4.63,0.0,30.0,1016.0,0,804,Clouds,overcast clouds,04n
+2025-09-28 12:00:25,2025-09-28 08:00:25,United States,Washington,North America,18.57,17.22,19.38,89.0,18.81,10000.0,0.0,75.0,2.57,0.0,360.0,1018.0,1,701,Mist,mist,50d
+2025-09-28 18:00:18,2025-09-28 14:00:18,United States,Washington,North America,27.43,25.79,28.84,63.0,28.92,10000.0,0.0,40.0,2.24,2.68,183.0,1019.0,1,802,Clouds,scattered clouds,03d
+2025-09-29 00:00:25,2025-09-28 20:00:25,United States,Washington,North America,22.54,20.8,24.06,76.0,22.83,10000.0,0.0,61.0,0.82,1.03,106.0,1019.0,0,803,Clouds,broken clouds,04n
+2025-09-29 06:00:20,2025-09-29 02:00:20,United States,Washington,North America,18.85,17.16,20.37,88.0,19.09,10000.0,0.0,0.0,0.0,0.0,0.0,1021.0,0,800,Clear,clear sky,01n
+2025-09-29 12:00:18,2025-09-29 08:00:18,United States,Washington,North America,18.03,16.78,19.33,86.0,18.13,10000.0,0.0,0.0,0.0,0.0,0.0,1022.0,1,800,Clear,clear sky,01d
+2025-09-29 18:00:16,2025-09-29 14:00:16,United States,Washington,North America,25.11,23.82,26.06,72.0,25.56,10000.0,0.0,100.0,2.57,0.0,40.0,1022.0,1,804,Clouds,overcast clouds,04d
+2025-09-30 00:00:25,2025-09-29 20:00:25,United States,Washington,North America,22.49,20.97,23.5,81.0,22.91,10000.0,0.0,75.0,2.06,0.0,80.0,1021.0,0,803,Clouds,broken clouds,04n
+2025-09-30 06:00:22,2025-09-30 02:00:22,United States,Washington,North America,20.47,19.0,21.61,86.0,20.82,10000.0,0.0,40.0,0.0,0.0,0.0,1020.0,0,802,Clouds,scattered clouds,03n
+2025-09-30 12:00:22,2025-09-30 08:00:22,United States,Washington,North America,19.37,18.26,20.51,88.0,19.66,10000.0,0.0,75.0,2.57,0.0,20.0,1019.0,1,701,Mist,mist,50d
+2025-09-30 18:00:15,2025-09-30 14:00:15,United States,Washington,North America,23.59,22.22,24.65,69.0,23.81,10000.0,0.0,0.0,3.6,0.0,10.0,1017.0,1,800,Clear,clear sky,01d
+2025-10-01 00:00:19,2025-09-30 20:00:19,United States,Washington,North America,20.41,18.65,21.9,72.0,20.39,10000.0,0.0,75.0,5.14,0.0,350.0,1016.0,0,803,Clouds,broken clouds,04n
+2025-10-01 06:00:15,2025-10-01 02:00:15,United States,Washington,North America,18.28,16.34,20.17,77.0,18.17,10000.0,0.0,0.0,1.54,0.0,360.0,1017.0,0,800,Clear,clear sky,01n
+2025-10-01 12:00:23,2025-10-01 08:00:23,United States,Washington,North America,15.51,13.66,16.85,70.0,14.94,10000.0,0.0,40.0,5.14,0.0,20.0,1020.0,1,802,Clouds,scattered clouds,03d
+2025-10-01 18:00:20,2025-10-01 14:00:20,United States,Washington,North America,22.57,21.07,24.0,48.0,22.14,10000.0,0.0,0.0,4.12,0.0,40.0,1021.0,1,800,Clear,clear sky,01d
+2025-10-02 00:00:17,2025-10-01 20:00:17,United States,Washington,North America,16.82,14.92,18.49,63.0,16.2,10000.0,0.0,0.0,2.06,0.0,90.0,1023.0,0,800,Clear,clear sky,01n
+2025-10-02 06:00:26,2025-10-02 02:00:26,United States,Washington,North America,11.94,10.21,12.95,86.0,11.44,10000.0,0.0,0.0,0.0,0.0,0.0,1026.0,0,800,Clear,clear sky,01n
+2025-10-02 12:00:00,2025-10-02 08:00:00,United States,Washington,North America,13.98,12.37,15.93,90.0,13.78,10000.0,0.0,20.0,2.06,0.0,30.0,1030.0,1,801,Clouds,few clouds,02d
+2025-10-02 18:00:20,2025-10-02 14:00:20,United States,Washington,North America,21.38,19.9,22.93,56.0,21.04,10000.0,0.0,75.0,4.63,0.0,110.0,1029.0,1,803,Clouds,broken clouds,04d
+2025-10-03 00:00:18,2025-10-02 20:00:18,United States,Washington,North America,16.79,14.59,18.27,71.0,16.38,10000.0,0.0,0.0,0.89,0.89,140.0,1030.0,0,800,Clear,clear sky,01n
+2025-10-03 06:00:25,2025-10-03 02:00:25,United States,Washington,North America,11.99,10.24,13.78,86.0,11.49,10000.0,0.0,0.0,0.0,0.0,0.0,1030.0,0,800,Clear,clear sky,01n
+2025-10-03 12:00:22,2025-10-03 08:00:22,United States,Washington,North America,10.95,8.97,12.03,83.0,10.27,10000.0,0.0,0.0,0.0,0.0,0.0,1029.0,1,800,Clear,clear sky,01d
+2025-10-03 18:00:17,2025-10-03 14:00:17,United States,Washington,North America,21.83,20.23,23.26,55.0,21.5,10000.0,0.0,40.0,2.57,0.0,150.0,1027.0,1,802,Clouds,scattered clouds,03d
+2025-10-04 00:00:29,2025-10-03 20:00:29,United States,Washington,North America,16.96,14.84,18.36,74.0,16.64,10000.0,0.0,0.0,3.6,0.0,130.0,1025.0,0,800,Clear,clear sky,01n
+2025-10-04 06:00:15,2025-10-04 02:00:15,United States,Washington,North America,12.2,10.8,13.88,86.0,11.72,10000.0,0.0,0.0,0.0,0.0,0.0,1025.0,0,800,Clear,clear sky,01n
+2025-10-04 12:00:21,2025-10-04 08:00:21,United States,Washington,North America,11.89,9.94,12.85,86.0,11.38,10000.0,0.0,75.0,2.57,0.0,240.0,1025.0,1,803,Clouds,broken clouds,04d
+2025-10-04 18:00:19,2025-10-04 14:00:19,United States,Washington,North America,25.55,23.84,27.15,52.0,25.52,10000.0,0.0,0.0,2.57,0.0,190.0,1023.0,1,800,Clear,clear sky,01d
+2025-10-05 00:00:20,2025-10-04 20:00:20,United States,Washington,North America,19.5,17.62,21.37,71.0,19.36,10000.0,0.0,0.0,2.57,0.0,130.0,1023.0,0,800,Clear,clear sky,01n
+2025-10-05 06:00:17,2025-10-05 02:00:17,United States,Washington,North America,14.64,12.63,16.2,88.0,14.46,2816.0,0.0,100.0,1.54,0.0,210.0,1024.0,0,701,Mist,mist,50n
+2025-10-05 12:00:24,2025-10-05 08:00:24,United States,Washington,North America,13.54,11.38,14.85,84.0,13.14,10000.0,0.0,20.0,1.54,0.0,230.0,1026.0,1,801,Clouds,few clouds,02d
+2025-10-05 18:00:20,2025-10-05 14:00:20,United States,Washington,North America,26.32,24.9,27.81,53.0,26.32,10000.0,0.0,0.0,3.6,0.0,230.0,1025.0,1,800,Clear,clear sky,01d
+2025-10-06 00:00:20,2025-10-05 20:00:20,United States,Washington,North America,19.5,17.62,21.37,71.0,19.36,10000.0,0.0,0.0,2.57,0.0,130.0,1023.0,0,800,Clear,clear sky,01n
+2025-10-06 06:00:17,2025-10-06 02:00:17,United States,Washington,North America,14.64,12.63,16.2,88.0,14.46,2816.0,0.0,100.0,1.54,0.0,210.0,1024.0,0,701,Mist,mist,50n
+2025-10-06 12:00:23,2025-10-06 08:00:23,United States,Washington,North America,15.22,13.65,16.75,88.0,15.1,10000.0,0.0,0.0,2.06,0.0,180.0,1026.0,1,800,Clear,clear sky,01d
+2025-10-06 18:00:20,2025-10-06 14:00:20,United States,Washington,North America,26.92,25.55,28.25,61.0,28.05,10000.0,0.0,20.0,5.14,0.0,170.0,1024.0,1,801,Clouds,few clouds,02d
+2025-10-07 00:00:17,2025-10-06 20:00:17,United States,Washington,North America,23.02,21.26,23.9,71.0,23.23,10000.0,0.0,0.0,3.09,0.0,170.0,1023.0,0,800,Clear,clear sky,01n
+2025-10-07 06:00:23,2025-10-07 02:00:23,United States,Washington,North America,18.49,16.78,19.47,84.0,18.59,10000.0,0.0,20.0,4.12,0.0,200.0,1023.0,0,801,Clouds,few clouds,02n
+2025-10-07 12:00:22,2025-10-07 08:00:22,United States,Washington,North America,16.8,15.15,17.77,86.0,16.78,10000.0,0.0,0.0,2.06,0.0,160.0,1022.0,1,800,Clear,clear sky,01d
+2025-10-07 18:00:20,2025-10-07 14:00:20,United States,Washington,North America,26.47,25.26,27.74,66.0,26.47,10000.0,0.0,75.0,8.23,11.32,190.0,1019.0,1,803,Clouds,broken clouds,04d
+2025-10-08 00:00:17,2025-10-07 20:00:17,United States,Washington,North America,24.1,22.62,24.97,71.0,24.42,10000.0,0.0,100.0,5.14,0.0,190.0,1017.0,0,804,Clouds,overcast clouds,04n
+2025-10-08 06:00:24,2025-10-08 02:00:24,United States,Washington,North America,21.17,19.68,22.15,82.0,21.48,10000.0,0.0,100.0,3.6,0.0,200.0,1015.0,0,804,Clouds,overcast clouds,04n
+2025-10-08 12:00:22,2025-10-08 08:00:22,United States,Washington,North America,20.37,19.71,21.11,92.0,20.86,9656.0,2.37,100.0,2.57,0.0,280.0,1015.0,1,501,Rain,moderate rain,10d
+2025-10-08 18:00:15,2025-10-08 14:00:15,United States,Washington,North America,18.58,17.91,19.97,78.0,18.53,10000.0,0.0,100.0,6.17,0.0,340.0,1019.0,1,804,Clouds,overcast clouds,04d
+2025-10-09 00:00:20,2025-10-08 20:00:20,United States,Washington,North America,16.88,15.21,18.37,59.0,16.16,10000.0,0.0,0.0,6.69,0.0,340.0,1022.0,0,800,Clear,clear sky,01n
+2025-10-09 06:00:15,2025-10-09 02:00:15,United States,Washington,North America,12.03,10.11,13.49,72.0,11.17,10000.0,0.0,0.0,3.09,0.0,350.0,1026.0,0,800,Clear,clear sky,01n
+2025-10-09 12:00:23,2025-10-09 08:00:23,United States,Washington,North America,8.48,6.75,10.13,82.0,6.63,10000.0,0.0,0.0,3.09,0.0,350.0,1029.0,1,800,Clear,clear sky,01d
+2025-10-09 18:00:19,2025-10-09 14:00:19,United States,Washington,North America,17.88,16.2,19.29,46.0,16.92,10000.0,0.0,20.0,3.6,0.0,80.0,1030.0,1,801,Clouds,few clouds,02d
+2025-10-10 00:00:17,2025-10-09 20:00:17,United States,Washington,North America,12.63,10.77,14.02,68.0,11.72,10000.0,0.0,0.0,0.0,0.0,0.0,1030.0,0,800,Clear,clear sky,01n
+2025-10-10 06:00:23,2025-10-10 02:00:23,United States,Washington,North America,8.76,6.91,9.92,78.0,7.3,10000.0,0.0,0.0,2.57,0.0,60.0,1031.0,0,800,Clear,clear sky,01n
+2025-10-10 12:00:26,2025-10-10 08:00:26,United States,Washington,North America,8.07,5.9,9.8,84.0,7.4,10000.0,0.0,0.0,1.54,0.0,40.0,1031.0,1,800,Clear,clear sky,01d
+2025-10-10 18:00:19,2025-10-10 14:00:19,United States,Washington,North America,17.95,16.59,18.97,55.0,17.24,10000.0,0.0,75.0,5.14,0.0,160.0,1028.0,1,803,Clouds,broken clouds,04d
+2025-10-11 00:00:15,2025-10-10 20:00:15,United States,Washington,North America,14.3,12.37,15.53,69.0,13.59,10000.0,0.0,40.0,2.06,0.0,110.0,1026.0,0,802,Clouds,scattered clouds,03n
+2025-10-11 06:00:19,2025-10-11 02:00:19,United States,Washington,North America,9.85,8.8,10.73,86.0,9.85,10000.0,0.0,0.0,0.0,0.0,0.0,1024.0,0,800,Clear,clear sky,01n
+2025-10-11 12:00:18,2025-10-11 08:00:18,United States,Washington,North America,11.3,9.67,12.67,85.0,10.71,10000.0,0.0,75.0,3.09,0.0,340.0,1022.0,1,803,Clouds,broken clouds,04d
+2025-10-11 18:00:23,2025-10-11 14:00:23,United States,Washington,North America,20.84,19.44,22.23,70.0,20.81,10000.0,0.0,75.0,4.12,0.0,30.0,1019.0,1,803,Clouds,broken clouds,04d
+2025-10-12 00:00:19,2025-10-11 20:00:19,United States,Washington,North America,18.29,17.15,19.25,84.0,18.37,10000.0,0.0,100.0,4.63,0.0,50.0,1017.0,0,804,Clouds,overcast clouds,04n
+2025-10-12 06:00:24,2025-10-12 02:00:24,United States,Washington,North America,17.56,16.52,18.37,87.0,17.64,10000.0,0.12,100.0,5.66,0.0,30.0,1014.0,0,500,Rain,light rain,10n
+2025-10-12 12:00:25,2025-10-12 08:00:25,United States,Washington,North America,16.82,15.82,17.7,86.0,16.8,10000.0,0.0,100.0,7.2,10.8,40.0,1013.0,1,701,Mist,mist,50d
+2025-10-12 18:00:21,2025-10-12 14:00:21,United States,Washington,North America,17.97,16.78,18.88,76.0,17.81,10000.0,0.0,100.0,7.72,12.86,40.0,1014.0,1,804,Clouds,overcast clouds,04d
+2025-10-13 00:00:20,2025-10-12 20:00:20,United States,Washington,North America,15.74,14.55,16.85,86.0,15.62,10000.0,0.0,100.0,8.75,13.38,20.0,1014.0,0,300,Drizzle,light intensity drizzle,09n
+2025-10-13 06:00:16,2025-10-13 02:00:16,United States,Washington,North America,14.71,13.64,15.51,84.0,14.43,10000.0,0.0,100.0,5.66,0.0,360.0,1012.0,0,804,Clouds,overcast clouds,04n
+2025-10-13 12:00:25,2025-10-13 08:00:25,United States,Washington,North America,14.78,13.74,15.53,84.0,14.51,10000.0,0.0,100.0,7.72,0.0,10.0,1013.0,1,300,Drizzle,light intensity drizzle,09d
+2025-10-13 18:00:18,2025-10-13 14:00:18,United States,Washington,North America,16.25,15.54,17.16,84.0,16.12,10000.0,0.0,100.0,7.2,0.0,340.0,1013.0,1,804,Clouds,overcast clouds,04d
+2025-10-14 00:00:23,2025-10-13 20:00:23,United States,Washington,North America,13.87,13.18,14.68,88.0,13.61,10000.0,0.49,100.0,7.72,10.29,350.0,1014.0,0,500,Rain,light rain,10n
+2025-10-14 06:00:19,2025-10-14 02:00:19,United States,Washington,North America,13.02,12.35,13.9,89.0,12.7,10000.0,0.0,100.0,7.2,0.0,350.0,1015.0,0,300,Drizzle,light intensity drizzle,09n
+2025-10-14 12:00:20,2025-10-14 08:00:20,United States,Washington,North America,13.23,12.53,13.97,92.0,13.01,10000.0,0.0,100.0,5.66,0.0,350.0,1017.0,1,300,Drizzle,light intensity drizzle,09d
+2025-10-14 18:00:15,2025-10-14 14:00:15,United States,Washington,North America,18.0,16.97,18.89,76.0,17.84,10000.0,0.0,100.0,6.69,0.0,340.0,1018.0,1,804,Clouds,overcast clouds,04d
+2025-10-15 00:00:20,2025-10-14 20:00:20,United States,Washington,North America,16.83,15.77,17.73,77.0,16.58,10000.0,0.0,0.0,5.14,0.0,10.0,1018.0,0,800,Clear,clear sky,01n
+2025-10-15 06:00:16,2025-10-15 02:00:16,United States,Washington,North America,12.91,11.03,14.02,84.0,12.45,10000.0,0.0,0.0,4.12,0.0,340.0,1018.0,0,800,Clear,clear sky,01n
+2025-10-15 12:00:23,2025-10-15 08:00:23,United States,Washington,North America,12.78,11.02,14.16,85.0,12.33,10000.0,0.0,40.0,4.12,0.0,340.0,1018.0,1,802,Clouds,scattered clouds,03d
+2025-10-15 18:00:20,2025-10-15 14:00:20,United States,Washington,North America,22.19,20.55,23.34,59.0,22.01,10000.0,0.0,40.0,5.14,0.0,340.0,1016.0,1,802,Clouds,scattered clouds,03d
+2025-10-16 00:00:17,2025-10-15 20:00:17,United States,Washington,North America,17.59,15.48,19.04,59.0,16.95,10000.0,0.0,0.0,4.12,0.0,360.0,1015.0,0,800,Clear,clear sky,01n
+2025-10-16 06:00:23,2025-10-16 02:00:23,United States,Washington,North America,12.82,10.91,14.04,67.0,11.91,10000.0,0.0,0.0,6.17,0.0,10.0,1017.0,0,800,Clear,clear sky,01n
+2025-10-16 12:00:32,2025-10-16 08:00:32,United States,Washington,North America,7.74,5.67,9.53,78.0,6.09,10000.0,0.0,0.0,2.57,0.0,330.0,1018.0,1,800,Clear,clear sky,01d
+2025-10-16 18:00:33,2025-10-16 14:00:33,United States,Washington,North America,17.5,16.04,18.7,38.0,16.3,10000.0,0.0,0.0,7.2,12.86,350.0,1016.0,1,800,Clear,clear sky,01d
+2025-10-17 00:00:23,2025-10-16 20:00:23,United States,Washington,North America,12.34,9.98,13.9,53.0,11.01,10000.0,0.0,0.0,3.6,0.0,360.0,1017.0,0,800,Clear,clear sky,01n
+2025-10-17 06:00:21,2025-10-17 02:00:21,United States,Washington,North America,8.75,6.15,10.45,62.0,6.41,10000.0,0.0,0.0,4.12,0.0,360.0,1018.0,0,800,Clear,clear sky,01n
+2025-10-17 12:00:23,2025-10-17 08:00:23,United States,Washington,North America,6.41,4.0,7.77,70.0,4.95,10000.0,0.0,0.0,2.06,0.0,320.0,1019.0,1,800,Clear,clear sky,01d
+2025-10-17 18:00:14,2025-10-17 14:00:14,United States,Washington,North America,17.87,16.65,19.06,42.0,16.81,10000.0,0.0,20.0,6.17,8.23,340.0,1017.0,1,801,Clouds,few clouds,02d
+2025-10-18 00:00:19,2025-10-17 20:00:19,United States,Washington,North America,12.59,10.49,14.33,64.0,11.58,10000.0,0.0,0.0,0.0,0.0,0.0,1016.0,0,800,Clear,clear sky,01n
+2025-10-18 06:00:15,2025-10-18 02:00:15,United States,Washington,North America,10.14,8.28,11.62,80.0,9.3,10000.0,0.0,0.0,0.45,0.45,188.0,1016.0,0,800,Clear,clear sky,01n
+2025-10-18 12:00:22,2025-10-18 08:00:22,United States,Washington,North America,10.55,8.97,11.82,84.0,9.85,10000.0,0.0,75.0,0.0,0.0,0.0,1017.0,1,803,Clouds,broken clouds,04d
+2025-10-18 18:00:18,2025-10-18 14:00:18,United States,Washington,North America,22.0,20.58,23.14,51.0,21.59,10000.0,0.0,0.0,3.6,0.0,170.0,1016.0,1,800,Clear,clear sky,01d
+2025-10-19 00:00:23,2025-10-18 20:00:23,United States,Washington,North America,17.05,14.92,18.49,74.0,16.74,10000.0,0.0,0.0,3.6,0.0,140.0,1015.0,0,800,Clear,clear sky,01n
+2025-10-19 06:00:19,2025-10-19 02:00:19,United States,Washington,North America,12.85,10.96,14.8,84.0,12.38,10000.0,0.0,0.0,2.57,0.0,160.0,1014.0,0,800,Clear,clear sky,01n
+2025-10-19 12:00:20,2025-10-19 08:00:20,United States,Washington,North America,13.09,11.1,14.6,89.0,12.78,10000.0,0.0,0.0,3.09,0.0,180.0,1012.0,1,800,Clear,clear sky,01d
+2025-10-19 18:00:18,2025-10-19 14:00:18,United States,Washington,North America,23.47,22.45,24.39,62.0,23.49,10000.0,0.0,75.0,9.26,13.38,200.0,1009.0,1,803,Clouds,broken clouds,04d
+2025-10-20 00:00:23,2025-10-19 20:00:23,United States,Washington,North America,21.8,20.4,22.7,66.0,21.76,10000.0,0.0,100.0,6.17,0.0,160.0,1006.0,0,804,Clouds,overcast clouds,04n
+2025-10-20 06:00:17,2025-10-20 02:00:17,United States,Washington,North America,14.15,12.89,15.37,87.0,13.89,10000.0,0.0,100.0,3.6,0.0,210.0,1009.0,0,804,Clouds,overcast clouds,04n
+2025-10-20 12:00:24,2025-10-20 08:00:24,United States,Washington,North America,11.34,9.95,12.43,77.0,10.54,10000.0,0.0,40.0,4.12,0.0,240.0,1013.0,1,802,Clouds,scattered clouds,03d
+2025-10-20 18:00:19,2025-10-20 14:00:19,United States,Washington,North America,18.49,17.15,19.45,43.0,17.52,10000.0,0.0,75.0,9.26,14.4,310.0,1014.0,1,803,Clouds,broken clouds,04d
+2025-10-21 00:00:18,2025-10-20 20:00:18,United States,Washington,North America,13.58,11.6,14.92,59.0,12.53,10000.0,0.0,0.0,1.54,0.0,300.0,1016.0,0,800,Clear,clear sky,01n
+2025-10-21 06:00:23,2025-10-21 02:00:23,United States,Washington,North America,8.54,6.58,9.99,83.0,6.7,10000.0,0.0,0.0,3.09,0.0,200.0,1017.0,0,800,Clear,clear sky,01n
+2025-10-21 12:00:21,2025-10-21 08:00:21,United States,Washington,North America,7.35,5.58,8.73,83.0,7.35,10000.0,0.0,0.0,0.0,0.0,0.0,1015.0,1,800,Clear,clear sky,01d
+2025-10-21 18:00:18,2025-10-21 14:00:18,United States,Washington,North America,20.95,19.73,22.43,43.0,20.22,10000.0,0.0,0.0,4.12,0.0,190.0,1010.0,1,800,Clear,clear sky,01d
+2025-10-22 00:00:19,2025-10-21 20:00:19,United States,Washington,North America,18.01,15.81,19.39,60.0,17.43,10000.0,0.0,75.0,3.6,0.0,170.0,1008.0,0,803,Clouds,broken clouds,04n
+2025-10-22 06:00:15,2025-10-22 02:00:15,United States,Washington,North America,13.46,11.99,14.39,84.0,13.05,10000.0,0.0,75.0,2.06,0.0,340.0,1008.0,0,803,Clouds,broken clouds,04n
+2025-10-22 12:00:28,2025-10-22 08:00:28,United States,Washington,North America,9.5,8.11,10.73,86.0,9.04,1609.0,0.0,100.0,1.54,0.0,230.0,1010.0,1,701,Mist,mist,50d
+2025-10-22 18:00:37,2025-10-22 14:00:37,United States,Washington,North America,18.59,17.08,19.6,39.0,17.52,10000.0,0.0,40.0,6.17,9.77,230.0,1009.0,1,802,Clouds,scattered clouds,03d
+2025-10-23 00:00:18,2025-10-22 20:00:18,United States,Washington,North America,14.57,12.71,16.0,53.0,13.47,10000.0,0.0,100.0,1.54,0.0,330.0,1011.0,0,804,Clouds,overcast clouds,04n
+2025-10-23 06:00:22,2025-10-23 02:00:22,United States,Washington,North America,10.38,8.48,11.85,77.0,9.48,10000.0,0.0,75.0,2.57,0.0,200.0,1013.0,0,803,Clouds,broken clouds,04n
+2025-10-23 12:00:21,2025-10-23 08:00:21,United States,Washington,North America,8.45,6.56,10.19,83.0,8.45,10000.0,0.0,40.0,0.0,0.0,0.0,1015.0,1,802,Clouds,scattered clouds,03d
+2025-10-23 18:00:19,2025-10-23 14:00:19,United States,Washington,North America,17.26,15.64,18.37,42.0,16.14,10000.0,0.0,75.0,4.63,0.0,260.0,1015.0,1,803,Clouds,broken clouds,04d
+2025-10-24 00:00:16,2025-10-23 20:00:16,United States,Washington,North America,11.44,9.65,12.72,57.0,10.13,10000.0,0.0,0.0,0.89,0.89,355.0,1018.0,0,800,Clear,clear sky,01n
+2025-10-24 06:00:21,2025-10-24 02:00:21,United States,Washington,North America,6.13,4.71,7.8,79.0,5.19,10000.0,0.0,0.0,1.54,0.0,310.0,1020.0,0,800,Clear,clear sky,01n
+2025-10-24 12:00:19,2025-10-24 08:00:19,United States,Washington,North America,5.2,2.97,6.47,83.0,3.08,10000.0,0.0,20.0,2.57,0.0,210.0,1022.0,1,701,Mist,mist,50d
+2025-10-24 18:00:17,2025-10-24 14:00:17,United States,Washington,North America,14.23,13.01,15.51,46.0,12.91,10000.0,0.0,75.0,6.69,0.0,320.0,1022.0,1,803,Clouds,broken clouds,04d
+2025-10-25 00:00:23,2025-10-24 20:00:23,United States,Washington,North America,10.14,8.18,11.64,65.0,8.91,10000.0,0.0,0.0,1.54,0.0,320.0,1025.0,0,800,Clear,clear sky,01n
+2025-10-25 06:00:19,2025-10-25 02:00:19,United States,Washington,North America,5.84,3.82,7.39,80.0,5.84,10000.0,0.0,0.0,0.0,0.0,0.0,1027.0,0,800,Clear,clear sky,01n
+2025-10-25 12:00:21,2025-10-25 08:00:21,United States,Washington,North America,4.4,2.34,6.1,83.0,1.72,10000.0,0.0,20.0,3.09,0.0,350.0,1029.0,1,801,Clouds,few clouds,02d
+2025-10-25 18:00:19,2025-10-25 14:00:19,United States,Washington,North America,14.85,13.82,15.83,50.0,13.7,10000.0,0.0,75.0,2.57,0.0,40.0,1029.0,1,803,Clouds,broken clouds,04d
+2025-10-26 00:00:16,2025-10-25 20:00:16,United States,Washington,North America,11.26,9.95,12.37,70.0,10.27,10000.0,0.0,40.0,0.0,0.0,0.0,1028.0,0,802,Clouds,scattered clouds,03n
+2025-10-26 06:00:22,2025-10-26 02:00:22,United States,Washington,North America,7.52,5.51,9.06,85.0,7.52,10000.0,0.0,0.0,0.0,0.0,0.0,1028.0,0,800,Clear,clear sky,01n
+2025-10-26 12:00:23,2025-10-26 08:00:23,United States,Washington,North America,5.75,4.04,7.35,84.0,5.75,10000.0,0.0,20.0,0.0,0.0,0.0,1029.0,1,801,Clouds,few clouds,02d
+2025-10-26 18:00:20,2025-10-26 14:00:20,United States,Washington,North America,16.02,14.67,17.39,46.0,14.88,10000.0,0.0,75.0,1.54,0.0,110.0,1028.0,1,803,Clouds,broken clouds,04d
+2025-10-27 00:00:24,2025-10-26 20:00:24,United States,Washington,North America,9.73,7.53,11.06,75.0,9.73,10000.0,0.0,100.0,0.0,0.0,0.0,1028.0,0,804,Clouds,overcast clouds,04n
+2025-10-27 06:00:18,2025-10-27 02:00:18,United States,Washington,North America,6.33,5.27,7.22,87.0,6.33,10000.0,0.0,0.0,0.0,0.0,0.0,1027.0,0,800,Clear,clear sky,01n
+2025-10-27 12:00:23,2025-10-27 08:00:23,United States,Washington,North America,6.58,3.9,7.67,77.0,3.74,10000.0,0.0,75.0,4.12,0.0,30.0,1027.0,1,803,Clouds,broken clouds,04d
+2025-10-27 18:00:19,2025-10-27 14:00:19,United States,Washington,North America,16.33,14.94,17.54,45.0,15.19,10000.0,0.0,20.0,4.63,0.0,50.0,1025.0,1,801,Clouds,few clouds,02d
+2025-10-28 00:00:17,2025-10-27 20:00:17,United States,Washington,North America,10.31,8.64,11.8,63.0,9.04,10000.0,0.0,0.0,2.06,0.0,40.0,1025.0,0,800,Clear,clear sky,01n
+2025-10-28 06:00:23,2025-10-28 02:00:23,United States,Washington,North America,8.5,6.93,9.55,79.0,6.1,10000.0,0.0,100.0,4.12,0.0,40.0,1024.0,0,804,Clouds,overcast clouds,04n
+2025-10-28 12:00:20,2025-10-28 08:00:20,United States,Washington,North America,6.21,4.48,7.39,78.0,2.37,10000.0,0.0,20.0,6.17,0.0,30.0,1023.0,1,801,Clouds,few clouds,02d
+2025-10-28 18:00:19,2025-10-28 14:00:19,United States,Washington,North America,16.33,14.94,17.54,45.0,15.19,10000.0,0.0,20.0,4.63,0.0,50.0,1025.0,1,801,Clouds,few clouds,02d
+2025-10-29 00:00:17,2025-10-28 20:00:17,United States,Washington,North America,10.31,8.64,11.8,63.0,9.04,10000.0,0.0,0.0,2.06,0.0,40.0,1025.0,0,800,Clear,clear sky,01n
+2025-10-29 06:00:23,2025-10-29 02:00:23,United States,Washington,North America,8.5,6.93,9.55,79.0,6.1,10000.0,0.0,100.0,4.12,0.0,40.0,1024.0,0,804,Clouds,overcast clouds,04n
+2025-10-29 12:00:24,2025-10-29 08:00:24,United States,Washington,North America,9.22,8.11,9.95,78.0,6.99,10000.0,0.0,75.0,4.12,0.0,30.0,1019.0,1,803,Clouds,broken clouds,04d
+2025-10-29 18:00:23,2025-10-29 14:00:23,United States,Washington,North America,14.08,12.86,14.95,66.0,13.27,10000.0,0.0,100.0,6.17,0.0,50.0,1017.0,1,804,Clouds,overcast clouds,04d
+2025-10-30 00:00:21,2025-10-29 20:00:21,United States,Washington,North America,12.96,11.98,13.86,79.0,12.37,10000.0,0.56,100.0,3.6,0.0,60.0,1015.0,0,300,Drizzle,light intensity drizzle,09n
+2025-10-30 06:00:19,2025-10-30 02:00:19,United States,Washington,North America,11.74,10.89,12.58,90.0,11.32,4023.0,3.16,100.0,6.17,0.0,30.0,1008.0,0,501,Rain,moderate rain,10n
+2025-10-30 12:00:22,2025-10-30 08:00:22,United States,Washington,North America,15.33,14.37,16.37,94.0,15.37,3219.0,0.0,100.0,6.69,0.0,110.0,1001.0,1,300,Drizzle,light intensity drizzle,09d
+2025-10-31 16:43:01,2025-10-31 12:43:01,United States,Washington,North America,15.34,14.22,16.6,44.0,14.08,10000.0,0.0,20.0,9.77,16.98,290.0,1004.0,1,801,Clouds,few clouds,02d
+2025-10-31 18:00:18,2025-10-31 14:00:18,United States,Washington,North America,16.21,14.92,17.26,40.0,14.93,10000.0,0.0,20.0,9.26,15.43,290.0,1004.0,1,801,Clouds,few clouds,02d
