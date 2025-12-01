@@ -1,0 +1,121 @@
+utc_time,local_time,country,capital,continent,temperature,temp_min,temp_max,humidity,feels_like,visibility,precipitation,cloudcover,wind_speed,wind_gust,wind_direction,pressure,is_day,weather_code,weather_main,weather_description,weather_icon
+2025-11-01 00:00:15,2025-11-01 01:00:15,Svalbard and Jan Mayen,Longyearbyen,Europe,-0.48,-0.48,-0.48,99.0,-0.48,79.0,0.0,100.0,1.33,1.41,87.0,1011.0,0,804,Clouds,overcast clouds,04n
+2025-11-01 06:00:20,2025-11-01 07:00:20,Svalbard and Jan Mayen,Longyearbyen,Europe,-0.41,-0.41,-0.41,98.0,-0.41,2992.0,0.0,100.0,1.23,1.21,83.0,1009.0,0,804,Clouds,overcast clouds,04n
+2025-11-01 12:00:17,2025-11-01 13:00:17,Svalbard and Jan Mayen,Longyearbyen,Europe,-0.39,-0.39,-0.39,99.0,-2.63,987.0,0.0,100.0,1.79,1.8,240.0,1008.0,0,804,Clouds,overcast clouds,04n
+2025-11-01 18:00:24,2025-11-01 19:00:24,Svalbard and Jan Mayen,Longyearbyen,Europe,-0.4,-0.4,-0.4,92.0,-3.8,10000.0,0.0,99.0,2.8,2.92,238.0,1007.0,0,804,Clouds,overcast clouds,04n
+2025-11-02 00:00:16,2025-11-02 01:00:16,Svalbard and Jan Mayen,Longyearbyen,Europe,-2.29,-2.29,-2.29,94.0,-6.75,10000.0,0.0,97.0,3.56,4.32,233.0,1006.0,0,804,Clouds,overcast clouds,04n
+2025-11-02 06:00:21,2025-11-02 07:00:21,Svalbard and Jan Mayen,Longyearbyen,Europe,-5.17,-5.17,-5.17,96.0,-10.42,2359.0,0.0,66.0,3.75,3.89,229.0,1004.0,0,803,Clouds,broken clouds,04n
+2025-11-02 12:00:20,2025-11-02 13:00:20,Svalbard and Jan Mayen,Longyearbyen,Europe,-6.65,-6.65,-6.65,98.0,-9.73,687.0,0.0,61.0,1.71,1.74,278.0,1005.0,0,803,Clouds,broken clouds,04n
+2025-11-02 18:00:18,2025-11-02 19:00:18,Svalbard and Jan Mayen,Longyearbyen,Europe,-7.53,-7.53,-7.53,92.0,-13.16,1663.0,0.0,86.0,3.59,4.5,15.0,1008.0,0,804,Clouds,overcast clouds,04n
+2025-11-03 00:00:13,2025-11-03 01:00:13,Svalbard and Jan Mayen,Longyearbyen,Europe,-10.83,-10.83,-10.83,86.0,-10.83,10000.0,0.0,86.0,0.03,1.45,144.0,1011.0,0,804,Clouds,overcast clouds,04n
+2025-11-03 06:00:18,2025-11-03 07:00:18,Svalbard and Jan Mayen,Longyearbyen,Europe,-11.13,-11.13,-11.13,90.0,-14.43,10000.0,0.0,73.0,1.49,1.63,139.0,1011.0,0,803,Clouds,broken clouds,04n
+2025-11-03 12:00:24,2025-11-03 13:00:24,Svalbard and Jan Mayen,Longyearbyen,Europe,-12.13,-12.13,-12.13,90.0,-16.19,10000.0,0.0,50.0,1.79,1.81,151.0,1011.0,0,802,Clouds,scattered clouds,03n
+2025-11-03 18:00:18,2025-11-03 19:00:18,Svalbard and Jan Mayen,Longyearbyen,Europe,-7.53,-7.53,-7.53,92.0,-13.16,1663.0,0.0,86.0,3.59,4.5,15.0,1008.0,0,804,Clouds,overcast clouds,04n
+2025-11-04 00:00:18,2025-11-04 01:00:18,Svalbard and Jan Mayen,Longyearbyen,Europe,-11.23,-11.23,-11.23,87.0,-14.9,10000.0,0.0,72.0,1.66,2.11,134.0,1010.0,0,803,Clouds,broken clouds,04n
+2025-11-04 06:00:16,2025-11-04 07:00:16,Svalbard and Jan Mayen,Longyearbyen,Europe,-9.59,-9.59,-9.59,88.0,-9.59,10000.0,0.0,99.0,1.19,1.86,138.0,1009.0,0,804,Clouds,overcast clouds,04n
+2025-11-04 12:00:23,2025-11-04 13:00:23,Svalbard and Jan Mayen,Longyearbyen,Europe,-6.96,-6.96,-6.96,93.0,-6.96,3255.0,0.0,100.0,1.2,1.87,77.0,1008.0,0,804,Clouds,overcast clouds,04n
+2025-11-04 18:00:19,2025-11-04 19:00:19,Svalbard and Jan Mayen,Longyearbyen,Europe,-4.49,-4.49,-4.49,93.0,-9.83,5196.0,0.0,100.0,4.04,8.38,113.0,1007.0,0,804,Clouds,overcast clouds,04n
+2025-11-05 00:00:15,2025-11-05 01:00:15,Svalbard and Jan Mayen,Longyearbyen,Europe,-4.18,-4.18,-4.18,93.0,-9.39,3431.0,0.0,100.0,3.96,7.05,107.0,1006.0,0,804,Clouds,overcast clouds,04n
+2025-11-05 06:00:20,2025-11-05 07:00:20,Svalbard and Jan Mayen,Longyearbyen,Europe,-3.9,-3.9,-3.9,95.0,-9.07,3009.0,0.0,100.0,4.0,6.99,97.0,1006.0,0,804,Clouds,overcast clouds,04n
+2025-11-05 12:00:22,2025-11-05 13:00:22,Svalbard and Jan Mayen,Longyearbyen,Europe,-2.29,-2.29,-2.29,98.0,-6.77,170.0,0.0,100.0,3.59,5.32,77.0,1005.0,0,600,Snow,light snow,13n
+2025-11-05 18:00:21,2025-11-05 19:00:21,Svalbard and Jan Mayen,Longyearbyen,Europe,-1.33,-1.33,-1.33,99.0,-3.07,102.0,0.0,100.0,1.38,1.33,77.0,1004.0,0,600,Snow,light snow,13n
+2025-11-06 00:00:34,2025-11-06 01:00:34,Svalbard and Jan Mayen,Longyearbyen,Europe,-0.9,-0.9,-0.9,99.0,-0.9,81.0,0.0,100.0,1.3,1.34,113.0,1006.0,0,804,Clouds,overcast clouds,04n
+2025-11-06 06:00:24,2025-11-06 07:00:24,Svalbard and Jan Mayen,Longyearbyen,Europe,-1.09,-1.09,-1.09,99.0,-3.01,89.0,0.0,100.0,1.51,1.61,95.0,1006.0,0,600,Snow,light snow,13n
+2025-11-06 12:00:25,2025-11-06 13:00:25,Svalbard and Jan Mayen,Longyearbyen,Europe,-1.47,-1.47,-1.47,99.0,-3.4,123.0,0.0,100.0,1.48,1.64,49.0,1008.0,0,600,Snow,light snow,13n
+2025-11-06 18:00:15,2025-11-06 19:00:15,Svalbard and Jan Mayen,Longyearbyen,Europe,-5.36,-5.36,-5.36,95.0,-10.75,365.0,0.0,100.0,3.86,5.97,18.0,1011.0,0,600,Snow,light snow,13n
+2025-11-07 00:00:20,2025-11-07 01:00:20,Svalbard and Jan Mayen,Longyearbyen,Europe,-5.22,-5.22,-5.22,97.0,-11.15,387.0,0.0,100.0,4.58,6.53,25.0,1012.0,0,600,Snow,light snow,13n
+2025-11-07 06:00:17,2025-11-07 07:00:17,Svalbard and Jan Mayen,Longyearbyen,Europe,-4.41,-4.41,-4.41,95.0,-10.83,414.0,0.0,100.0,5.63,8.71,41.0,1013.0,0,600,Snow,light snow,13n
+2025-11-07 12:00:22,2025-11-07 13:00:22,Svalbard and Jan Mayen,Longyearbyen,Europe,-4.81,-4.81,-4.81,97.0,-8.47,1765.0,0.0,100.0,2.3,2.52,37.0,1012.0,0,804,Clouds,overcast clouds,04n
+2025-11-07 18:00:18,2025-11-07 19:00:18,Svalbard and Jan Mayen,Longyearbyen,Europe,-3.0,-3.0,-3.0,97.0,-6.46,199.0,0.0,100.0,2.4,2.88,19.0,1009.0,0,600,Snow,light snow,13n
+2025-11-08 00:00:15,2025-11-08 01:00:15,Svalbard and Jan Mayen,Longyearbyen,Europe,-1.76,-1.76,-1.76,98.0,-7.66,120.0,0.0,100.0,5.96,10.46,12.0,1002.0,0,600,Snow,light snow,13n
+2025-11-08 06:00:20,2025-11-08 07:00:20,Svalbard and Jan Mayen,Longyearbyen,Europe,-1.18,-1.18,-1.18,98.0,-7.95,99.0,0.0,100.0,8.22,12.89,39.0,997.0,0,601,Snow,snow,13n
+2025-11-08 12:00:21,2025-11-08 13:00:21,Svalbard and Jan Mayen,Longyearbyen,Europe,-1.3,-1.3,-1.3,98.0,-8.3,79.0,0.0,100.0,14.33,18.03,30.0,990.0,0,601,Snow,snow,13n
+2025-11-08 18:02:09,2025-11-08 19:02:09,Svalbard and Jan Mayen,Longyearbyen,Europe,-1.81,-1.81,-1.81,97.0,-8.81,113.0,0.0,100.0,13.48,16.57,48.0,994.0,0,601,Snow,snow,13n
+2025-11-09 00:00:14,2025-11-09 01:00:14,Svalbard and Jan Mayen,Longyearbyen,Europe,-3.21,-3.21,-3.21,96.0,-10.21,76.0,0.0,100.0,17.55,23.0,22.0,999.0,0,601,Snow,snow,13n
+2025-11-09 06:00:18,2025-11-09 07:00:18,Svalbard and Jan Mayen,Longyearbyen,Europe,-3.87,-3.87,-3.87,95.0,-10.87,87.0,0.0,100.0,13.4,21.22,8.0,1002.0,0,601,Snow,snow,13n
+2025-11-09 12:00:20,2025-11-09 13:00:20,Svalbard and Jan Mayen,Longyearbyen,Europe,-3.02,-3.02,-3.02,96.0,-10.02,97.0,0.0,100.0,15.01,19.77,27.0,1006.0,0,601,Snow,snow,13n
+2025-11-09 18:00:15,2025-11-09 19:00:15,Svalbard and Jan Mayen,Longyearbyen,Europe,-3.94,-3.94,-3.94,93.0,-10.94,321.0,0.0,100.0,14.61,18.71,34.0,1011.0,0,600,Snow,light snow,13n
+2025-11-10 00:00:21,2025-11-10 01:00:21,Svalbard and Jan Mayen,Longyearbyen,Europe,-4.25,-4.25,-4.25,96.0,-11.25,102.0,0.0,100.0,13.81,17.75,28.0,1013.0,0,601,Snow,snow,13n
+2025-11-10 06:00:20,2025-11-10 07:00:20,Svalbard and Jan Mayen,Longyearbyen,Europe,-3.37,-3.37,-3.37,97.0,-10.37,86.0,0.0,100.0,8.07,12.28,83.0,1015.0,0,601,Snow,snow,13n
+2025-11-10 12:00:22,2025-11-10 13:00:22,Svalbard and Jan Mayen,Longyearbyen,Europe,-5.55,-5.55,-5.55,80.0,-12.55,10000.0,0.0,100.0,7.25,11.08,63.0,1019.0,0,804,Clouds,overcast clouds,04n
+2025-11-10 18:00:19,2025-11-10 19:00:19,Svalbard and Jan Mayen,Longyearbyen,Europe,-9.36,-9.36,-9.36,78.0,-14.87,10000.0,0.0,94.0,3.11,3.46,37.0,1021.0,0,804,Clouds,overcast clouds,04n
+2025-11-11 00:00:16,2025-11-11 01:00:16,Svalbard and Jan Mayen,Longyearbyen,Europe,-10.27,-10.27,-10.27,81.0,-15.15,10000.0,0.0,79.0,2.47,2.86,18.0,1021.0,0,803,Clouds,broken clouds,04n
+2025-11-11 06:00:22,2025-11-11 07:00:22,Svalbard and Jan Mayen,Longyearbyen,Europe,-9.5,-9.5,-9.5,82.0,-14.09,10000.0,0.0,69.0,2.37,2.53,349.0,1021.0,0,803,Clouds,broken clouds,04n
+2025-11-11 12:00:23,2025-11-11 13:00:23,Svalbard and Jan Mayen,Longyearbyen,Europe,-10.8,-10.8,-10.8,83.0,-10.8,10000.0,0.0,27.0,1.19,1.38,334.0,1021.0,0,802,Clouds,scattered clouds,03n
+2025-11-11 18:00:14,2025-11-11 19:00:14,Svalbard and Jan Mayen,Longyearbyen,Europe,-10.26,-10.26,-10.26,82.0,-10.26,10000.0,0.0,67.0,0.99,0.95,237.0,1020.0,0,803,Clouds,broken clouds,04n
+2025-11-12 00:00:19,2025-11-12 01:00:19,Svalbard and Jan Mayen,Longyearbyen,Europe,-7.86,-7.86,-7.86,95.0,-11.75,105.0,0.0,100.0,2.09,2.23,79.0,1015.0,0,601,Snow,snow,13n
+2025-11-12 06:00:20,2025-11-12 07:00:20,Svalbard and Jan Mayen,Longyearbyen,Europe,-8.06,-8.06,-8.06,87.0,-15.06,1444.0,0.0,100.0,8.42,11.42,26.0,1013.0,0,600,Snow,light snow,13n
+2025-11-12 12:00:21,2025-11-12 13:00:21,Svalbard and Jan Mayen,Longyearbyen,Europe,-11.63,-11.63,-11.63,75.0,-18.63,10000.0,0.0,91.0,4.61,5.09,357.0,1014.0,0,804,Clouds,overcast clouds,04n
+2025-11-12 18:00:22,2025-11-12 19:00:22,Svalbard and Jan Mayen,Longyearbyen,Europe,-10.3,-10.3,-10.3,83.0,-17.11,3098.0,0.0,94.0,4.19,7.5,353.0,1013.0,0,600,Snow,light snow,13n
+2025-11-13 00:00:24,2025-11-13 01:00:24,Svalbard and Jan Mayen,Longyearbyen,Europe,-11.8,-11.8,-11.8,70.0,-18.8,10000.0,0.0,95.0,5.52,7.4,7.0,1013.0,0,804,Clouds,overcast clouds,04n
+2025-11-13 06:00:20,2025-11-13 07:00:20,Svalbard and Jan Mayen,Longyearbyen,Europe,-10.62,-10.62,-10.62,70.0,-17.62,10000.0,0.0,97.0,5.72,7.91,3.0,1012.0,0,804,Clouds,overcast clouds,04n
+2025-11-13 12:00:23,2025-11-13 13:00:23,Svalbard and Jan Mayen,Longyearbyen,Europe,-10.36,-10.36,-10.36,82.0,-17.36,1576.0,0.0,100.0,7.12,11.05,359.0,1011.0,0,600,Snow,light snow,13n
+2025-11-13 18:00:22,2025-11-13 19:00:22,Svalbard and Jan Mayen,Longyearbyen,Europe,-10.3,-10.3,-10.3,83.0,-17.11,3098.0,0.0,94.0,4.19,7.5,353.0,1013.0,0,600,Snow,light snow,13n
+2025-11-14 00:00:17,2025-11-14 01:00:17,Svalbard and Jan Mayen,Longyearbyen,Europe,-9.68,-9.68,-9.68,82.0,-16.68,834.0,0.0,100.0,8.56,12.52,354.0,1007.0,0,600,Snow,light snow,13n
+2025-11-14 06:00:16,2025-11-14 07:00:16,Svalbard and Jan Mayen,Longyearbyen,Europe,-10.46,-10.46,-10.46,82.0,-17.46,2296.0,0.0,100.0,9.26,12.44,1.0,1004.0,0,600,Snow,light snow,13n
+2025-11-14 12:00:24,2025-11-14 13:00:24,Svalbard and Jan Mayen,Longyearbyen,Europe,-11.41,-11.41,-11.41,88.0,-18.41,1276.0,0.0,100.0,7.75,11.09,345.0,1001.0,0,600,Snow,light snow,13n
+2025-11-14 18:00:20,2025-11-14 19:00:20,Svalbard and Jan Mayen,Longyearbyen,Europe,-10.48,-10.48,-10.48,83.0,-17.48,1930.0,0.0,100.0,8.12,11.93,344.0,997.0,0,600,Snow,light snow,13n
+2025-11-15 00:00:16,2025-11-15 01:00:16,Svalbard and Jan Mayen,Longyearbyen,Europe,-9.56,-9.56,-9.56,87.0,-16.56,1052.0,0.0,100.0,9.41,13.34,346.0,994.0,0,600,Snow,light snow,13n
+2025-11-15 06:00:21,2025-11-15 07:00:21,Svalbard and Jan Mayen,Longyearbyen,Europe,-8.88,-8.88,-8.88,89.0,-15.88,1132.0,0.0,100.0,10.75,15.28,339.0,990.0,0,600,Snow,light snow,13n
+2025-11-15 12:00:21,2025-11-15 13:00:21,Svalbard and Jan Mayen,Longyearbyen,Europe,-7.08,-7.08,-7.08,95.0,-14.08,107.0,0.0,100.0,5.71,12.88,336.0,987.0,0,601,Snow,snow,13n
+2025-11-15 18:00:20,2025-11-15 19:00:20,Svalbard and Jan Mayen,Longyearbyen,Europe,-10.48,-10.48,-10.48,83.0,-17.48,1930.0,0.0,100.0,8.12,11.93,344.0,997.0,0,600,Snow,light snow,13n
+2025-11-16 00:00:18,2025-11-16 01:00:18,Svalbard and Jan Mayen,Longyearbyen,Europe,-4.52,-4.52,-4.52,91.0,-11.52,416.0,0.0,100.0,16.21,20.14,40.0,992.0,0,601,Snow,snow,13n
+2025-11-16 06:00:15,2025-11-16 07:00:15,Svalbard and Jan Mayen,Longyearbyen,Europe,-6.59,-6.59,-6.59,90.0,-13.59,2691.0,0.0,100.0,16.26,20.25,25.0,998.0,0,600,Snow,light snow,13n
+2025-11-16 12:00:19,2025-11-16 13:00:19,Svalbard and Jan Mayen,Longyearbyen,Europe,-9.51,-9.51,-9.51,79.0,-16.51,7188.0,0.0,100.0,10.38,15.69,9.0,1003.0,0,804,Clouds,overcast clouds,04n
+2025-11-16 18:00:18,2025-11-16 19:00:18,Svalbard and Jan Mayen,Longyearbyen,Europe,-9.76,-9.76,-9.76,76.0,-16.76,7603.0,0.0,100.0,11.14,15.87,9.0,1005.0,0,804,Clouds,overcast clouds,04n
+2025-11-17 00:00:13,2025-11-17 01:00:13,Svalbard and Jan Mayen,Longyearbyen,Europe,-9.86,-9.86,-9.86,83.0,-16.86,2831.0,0.0,100.0,13.48,17.28,2.0,1006.0,0,804,Clouds,overcast clouds,04n
+2025-11-17 06:00:19,2025-11-17 07:00:19,Svalbard and Jan Mayen,Longyearbyen,Europe,-9.23,-9.23,-9.23,88.0,-16.23,610.0,0.0,100.0,12.13,16.69,5.0,1006.0,0,600,Snow,light snow,13n
+2025-11-17 12:00:23,2025-11-17 13:00:23,Svalbard and Jan Mayen,Longyearbyen,Europe,-7.78,-7.78,-7.78,84.0,-14.78,1968.0,0.0,100.0,10.78,16.4,9.0,1006.0,0,600,Snow,light snow,13n
+2025-11-17 18:00:18,2025-11-17 19:00:18,Svalbard and Jan Mayen,Longyearbyen,Europe,-7.54,-7.54,-7.54,83.0,-14.54,2710.0,0.0,100.0,10.99,16.09,10.0,1009.0,0,600,Snow,light snow,13n
+2025-11-18 00:00:16,2025-11-18 01:00:16,Svalbard and Jan Mayen,Longyearbyen,Europe,-7.61,-7.61,-7.61,69.0,-14.61,10000.0,0.0,99.0,9.92,14.95,13.0,1011.0,0,804,Clouds,overcast clouds,04n
+2025-11-18 06:00:24,2025-11-18 07:00:24,Svalbard and Jan Mayen,Longyearbyen,Europe,-6.7,-6.7,-6.7,87.0,-13.7,1350.0,0.0,100.0,11.76,15.17,18.0,1012.0,0,601,Snow,snow,13n
+2025-11-18 12:00:22,2025-11-18 13:00:22,Svalbard and Jan Mayen,Longyearbyen,Europe,-6.41,-6.41,-6.41,89.0,-13.41,787.0,0.0,100.0,10.75,14.5,16.0,1013.0,0,601,Snow,snow,13n
+2025-11-18 18:00:14,2025-11-18 19:00:14,Svalbard and Jan Mayen,Longyearbyen,Europe,-7.24,-7.24,-7.24,81.0,-14.24,3150.0,0.0,100.0,8.11,12.84,11.0,1016.0,0,600,Snow,light snow,13n
+2025-11-19 00:00:19,2025-11-19 01:00:19,Svalbard and Jan Mayen,Longyearbyen,Europe,-7.37,-7.37,-7.37,85.0,-14.37,2427.0,0.0,100.0,7.74,12.42,10.0,1016.0,0,600,Snow,light snow,13n
+2025-11-19 06:00:16,2025-11-19 07:00:16,Svalbard and Jan Mayen,Longyearbyen,Europe,-7.4,-7.4,-7.4,81.0,-14.4,2651.0,0.0,100.0,7.49,11.85,11.0,1017.0,0,600,Snow,light snow,13n
+2025-11-19 12:00:23,2025-11-19 13:00:23,Svalbard and Jan Mayen,Longyearbyen,Europe,-7.85,-7.85,-7.85,88.0,-14.85,755.0,0.0,100.0,6.18,9.83,6.0,1016.0,0,600,Snow,light snow,13n
+2025-11-19 18:00:19,2025-11-19 19:00:19,Svalbard and Jan Mayen,Longyearbyen,Europe,-7.2,-7.2,-7.2,91.0,-14.2,415.0,0.0,100.0,6.38,9.9,25.0,1016.0,0,600,Snow,light snow,13n
+2025-11-20 00:00:17,2025-11-20 01:00:17,Svalbard and Jan Mayen,Longyearbyen,Europe,-7.68,-7.68,-7.68,90.0,-14.45,589.0,0.0,100.0,4.91,7.27,19.0,1016.0,0,600,Snow,light snow,13n
+2025-11-20 06:00:22,2025-11-20 07:00:22,Svalbard and Jan Mayen,Longyearbyen,Europe,-7.19,-7.19,-7.19,87.0,-13.82,1354.0,0.0,100.0,4.88,7.54,2.0,1016.0,0,600,Snow,light snow,13n
+2025-11-20 12:00:24,2025-11-20 13:00:24,Svalbard and Jan Mayen,Longyearbyen,Europe,-6.87,-6.87,-6.87,88.0,-13.7,2869.0,0.0,100.0,5.28,8.77,358.0,1015.0,0,600,Snow,light snow,13n
+2025-11-20 18:14:49,2025-11-20 19:14:49,Svalbard and Jan Mayen,Longyearbyen,Europe,-7.67,-7.67,-7.67,88.0,-14.0,3234.0,0.0,99.0,4.35,7.24,347.0,1015.0,0,600,Snow,light snow,13n
+2025-11-21 00:00:15,2025-11-21 01:00:15,Svalbard and Jan Mayen,Longyearbyen,Europe,-7.05,-7.05,-7.05,95.0,-13.13,127.0,0.0,100.0,4.22,7.35,356.0,1014.0,0,601,Snow,snow,13n
+2025-11-21 06:00:20,2025-11-21 07:00:20,Svalbard and Jan Mayen,Longyearbyen,Europe,-8.14,-8.14,-8.14,93.0,-13.85,2030.0,0.0,99.0,3.54,4.05,351.0,1013.0,0,600,Snow,light snow,13n
+2025-11-21 12:00:23,2025-11-21 13:00:23,Svalbard and Jan Mayen,Longyearbyen,Europe,-10.93,-10.93,-10.93,90.0,-16.19,10000.0,0.0,86.0,2.66,2.77,340.0,1011.0,0,804,Clouds,overcast clouds,04n
+2025-11-21 18:00:23,2025-11-21 19:00:23,Svalbard and Jan Mayen,Longyearbyen,Europe,-10.87,-10.87,-10.87,93.0,-14.24,10000.0,0.0,100.0,1.54,1.64,348.0,1009.0,0,804,Clouds,overcast clouds,04n
+2025-11-22 00:00:22,2025-11-22 01:00:22,Svalbard and Jan Mayen,Longyearbyen,Europe,-10.21,-10.21,-10.21,92.0,-10.21,10000.0,0.0,100.0,0.59,0.87,332.0,1006.0,0,804,Clouds,overcast clouds,04n
+2025-11-22 06:00:18,2025-11-22 07:00:18,Svalbard and Jan Mayen,Longyearbyen,Europe,-10.94,-10.94,-10.94,91.0,-10.94,10000.0,0.0,100.0,1.0,1.23,348.0,1004.0,0,804,Clouds,overcast clouds,04n
+2025-11-22 12:00:22,2025-11-22 13:00:22,Svalbard and Jan Mayen,Longyearbyen,Europe,-11.52,-11.52,-11.52,84.0,-11.52,10000.0,0.0,96.0,0.46,1.02,315.0,1004.0,0,804,Clouds,overcast clouds,04n
+2025-11-22 18:00:16,2025-11-22 19:00:16,Svalbard and Jan Mayen,Longyearbyen,Europe,-12.1,-12.1,-12.1,78.0,-12.1,10000.0,0.0,87.0,0.61,0.87,240.0,1003.0,0,804,Clouds,overcast clouds,04n
+2025-11-23 00:00:21,2025-11-23 01:00:21,Svalbard and Jan Mayen,Longyearbyen,Europe,-12.25,-12.25,-12.25,85.0,-12.25,10000.0,0.0,93.0,1.07,1.09,181.0,1003.0,0,804,Clouds,overcast clouds,04n
+2025-11-23 06:00:17,2025-11-23 07:00:17,Svalbard and Jan Mayen,Longyearbyen,Europe,-11.61,-11.61,-11.61,88.0,-11.61,10000.0,0.0,74.0,0.61,0.88,150.0,1004.0,0,803,Clouds,broken clouds,04n
+2025-11-23 12:00:23,2025-11-23 13:00:23,Svalbard and Jan Mayen,Longyearbyen,Europe,-11.27,-11.27,-11.27,86.0,-11.27,10000.0,0.0,73.0,0.86,1.58,31.0,1005.0,0,803,Clouds,broken clouds,04n
+2025-11-23 18:00:19,2025-11-23 19:00:19,Svalbard and Jan Mayen,Longyearbyen,Europe,-10.25,-10.25,-10.25,88.0,-15.14,5531.0,0.0,94.0,2.48,2.61,340.0,1004.0,0,804,Clouds,overcast clouds,04n
+2025-11-24 00:00:15,2025-11-24 01:00:15,Svalbard and Jan Mayen,Longyearbyen,Europe,-10.88,-10.88,-10.88,79.0,-10.88,10000.0,0.0,75.0,0.3,0.8,298.0,1004.0,0,803,Clouds,broken clouds,04n
+2025-11-24 06:00:21,2025-11-24 07:00:21,Svalbard and Jan Mayen,Longyearbyen,Europe,-10.14,-10.14,-10.14,76.0,-14.48,10000.0,0.0,95.0,2.13,2.48,18.0,1003.0,0,804,Clouds,overcast clouds,04n
+2025-11-24 12:00:25,2025-11-24 13:00:25,Svalbard and Jan Mayen,Longyearbyen,Europe,-7.67,-7.67,-7.67,95.0,-7.67,1374.0,0.0,100.0,1.22,1.13,291.0,1002.0,0,600,Snow,light snow,13n
+2025-11-24 18:00:21,2025-11-24 19:00:21,Svalbard and Jan Mayen,Longyearbyen,Europe,-10.8,-10.8,-10.8,73.0,-10.8,10000.0,0.0,20.0,1.25,1.52,131.0,1003.0,0,801,Clouds,few clouds,02n
+2025-11-25 00:00:23,2025-11-25 01:00:23,Svalbard and Jan Mayen,Longyearbyen,Europe,-9.64,-9.64,-9.64,91.0,-15.29,1528.0,0.0,44.0,3.18,4.45,36.0,1003.0,0,802,Clouds,scattered clouds,03n
+2025-11-25 06:00:19,2025-11-25 07:00:19,Svalbard and Jan Mayen,Longyearbyen,Europe,-3.41,-3.41,-3.41,96.0,-10.41,152.0,0.0,100.0,9.88,13.75,68.0,997.0,0,600,Snow,light snow,13n
+2025-11-25 12:00:28,2025-11-25 13:00:28,Svalbard and Jan Mayen,Longyearbyen,Europe,-5.31,-5.31,-5.31,98.0,-10.43,10000.0,0.0,90.0,3.56,6.76,85.0,996.0,0,804,Clouds,overcast clouds,04n
+2025-11-25 18:00:16,2025-11-25 19:00:16,Svalbard and Jan Mayen,Longyearbyen,Europe,-5.97,-5.97,-5.97,95.0,-10.88,3070.0,0.0,100.0,3.2,5.61,62.0,996.0,0,804,Clouds,overcast clouds,04n
+2025-11-26 00:00:21,2025-11-26 01:00:21,Svalbard and Jan Mayen,Longyearbyen,Europe,-2.82,-2.82,-2.82,96.0,-9.46,305.0,0.0,100.0,6.83,9.88,106.0,995.0,0,601,Snow,snow,13n
+2025-11-26 06:00:18,2025-11-26 07:00:18,Svalbard and Jan Mayen,Longyearbyen,Europe,-3.01,-3.01,-3.01,92.0,-10.01,1853.0,0.0,100.0,9.48,14.06,92.0,994.0,0,600,Snow,light snow,13n
+2025-11-26 12:00:21,2025-11-26 13:00:21,Svalbard and Jan Mayen,Longyearbyen,Europe,-6.76,-6.76,-6.76,89.0,-12.47,4808.0,0.0,100.0,3.87,7.49,71.0,993.0,0,804,Clouds,overcast clouds,04n
+2025-11-26 18:00:17,2025-11-26 19:00:17,Svalbard and Jan Mayen,Longyearbyen,Europe,-3.35,-3.35,-3.35,93.0,-10.35,1429.0,0.0,100.0,10.16,14.89,92.0,991.0,0,600,Snow,light snow,13n
+2025-11-27 00:00:23,2025-11-27 01:00:23,Svalbard and Jan Mayen,Longyearbyen,Europe,-3.99,-3.99,-3.99,95.0,-10.99,153.0,0.0,100.0,11.35,14.72,50.0,989.0,0,600,Snow,light snow,13n
+2025-11-27 06:00:19,2025-11-27 07:00:19,Svalbard and Jan Mayen,Longyearbyen,Europe,-4.41,-4.41,-4.41,94.0,-9.79,4955.0,0.0,92.0,4.11,5.32,45.0,986.0,0,804,Clouds,overcast clouds,04n
+2025-11-27 12:00:19,2025-11-27 13:00:19,Svalbard and Jan Mayen,Longyearbyen,Europe,-4.62,-4.62,-4.62,93.0,-4.62,10000.0,0.0,99.0,1.1,1.19,3.0,984.0,0,804,Clouds,overcast clouds,04n
+2025-11-27 18:19:49,2025-11-27 19:19:49,Svalbard and Jan Mayen,Longyearbyen,Europe,-7.62,-7.62,-7.62,91.0,-7.62,10000.0,0.0,73.0,1.29,2.25,92.0,982.0,0,803,Clouds,broken clouds,04n
+2025-11-28 00:00:16,2025-11-28 01:00:16,Svalbard and Jan Mayen,Longyearbyen,Europe,-8.23,-8.23,-8.23,95.0,-11.72,5787.0,0.0,49.0,1.81,2.91,57.0,983.0,0,802,Clouds,scattered clouds,03n
+2025-11-28 06:00:22,2025-11-28 07:00:22,Svalbard and Jan Mayen,Longyearbyen,Europe,-4.35,-4.35,-4.35,97.0,-9.61,130.0,0.0,94.0,3.98,7.06,0.0,980.0,0,601,Snow,snow,13n
+2025-11-28 12:00:18,2025-11-28 13:00:18,Svalbard and Jan Mayen,Longyearbyen,Europe,-3.44,-3.44,-3.44,96.0,-10.44,102.0,0.0,100.0,12.19,15.87,59.0,979.0,0,601,Snow,snow,13n
+2025-11-28 18:00:14,2025-11-28 19:00:14,Svalbard and Jan Mayen,Longyearbyen,Europe,-2.99,-2.99,-2.99,97.0,-9.99,127.0,0.0,100.0,9.39,12.61,45.0,977.0,0,600,Snow,light snow,13n
+2025-11-29 00:00:20,2025-11-29 01:00:20,Svalbard and Jan Mayen,Longyearbyen,Europe,-3.17,-3.17,-3.17,97.0,-7.42,309.0,0.0,100.0,3.12,4.46,34.0,975.0,0,600,Snow,light snow,13n
+2025-11-29 06:00:17,2025-11-29 07:00:17,Svalbard and Jan Mayen,Longyearbyen,Europe,-2.28,-2.28,-2.28,97.0,-9.28,112.0,0.0,100.0,8.2,12.54,29.0,974.0,0,601,Snow,snow,13n
+2025-11-29 12:00:17,2025-11-29 13:00:17,Svalbard and Jan Mayen,Longyearbyen,Europe,-2.49,-2.49,-2.49,98.0,-6.21,177.0,0.0,100.0,2.72,4.5,38.0,972.0,0,600,Snow,light snow,13n
+2025-11-29 18:00:22,2025-11-29 19:00:22,Svalbard and Jan Mayen,Longyearbyen,Europe,-2.96,-2.96,-2.96,97.0,-6.39,204.0,0.0,100.0,2.38,2.85,255.0,975.0,0,601,Snow,snow,13n
+2025-11-30 00:00:17,2025-11-30 01:00:17,Svalbard and Jan Mayen,Longyearbyen,Europe,-7.81,-7.81,-7.81,96.0,-13.23,7764.0,0.0,84.0,3.32,3.45,214.0,979.0,0,803,Clouds,broken clouds,04n
+2025-11-30 06:00:15,2025-11-30 07:00:15,Svalbard and Jan Mayen,Longyearbyen,Europe,-8.21,-8.21,-8.21,96.0,-8.21,3951.0,0.0,60.0,1.17,1.26,161.0,980.0,0,803,Clouds,broken clouds,04n
+2025-11-30 12:00:22,2025-11-30 13:00:22,Svalbard and Jan Mayen,Longyearbyen,Europe,-5.36,-5.36,-5.36,91.0,-8.1,10000.0,0.0,81.0,1.63,1.65,184.0,982.0,0,803,Clouds,broken clouds,04n
+2025-11-30 18:00:19,2025-11-30 19:00:19,Svalbard and Jan Mayen,Longyearbyen,Europe,-7.71,-7.71,-7.71,96.0,-7.71,10000.0,0.0,98.0,1.23,1.3,268.0,985.0,0,804,Clouds,overcast clouds,04n

@@ -3,10 +3,10 @@ from pathlib import Path
 
 def merge_countries_csv():
     root = Path(__file__).resolve().parents[2]
-    src_dir = root / "Countries-v1"
+    src_dir = root / "Countries-v2" # Thư mục nguồn chứa các file CSV
     out_dir = root / "data" / "collected"
     out_dir.mkdir(parents=True, exist_ok=True)
-    out_file = out_dir / "countries-v1.csv"
+    out_file = out_dir / "countries-v2.csv" # File kết quả
 
     if not src_dir.exists():
         raise SystemExit(f"Không tìm thấy thư mục nguồn: {src_dir}")
